@@ -14,8 +14,8 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - sell soap online, where each bar has a personalised name stamp.
 
 ### photo measuring
-- Take a digital photo of a ruler lying next to any object and the app can measure the object
-- The app will find the ruler in the picture, save the pixel distance of one centimetre, and then measure any points mapped out on the photo
+- Take a digital photo of any object along with a special brightly-coloured, square-centimetre sticker, and the app can measure the object
+- The app will find the square sticker in the picture, save the pixel distance of one centimetre, and then measure any points mapped out on the photo
 
 ### coffee compare
 - a site that allows people to upload photos of coffees along with the name, the place they bought it, and the price.
