@@ -21,3 +21,7 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - a site that allows people to upload photos of coffees along with the name, the place they bought it, and the price.
 - a latte ordered in a Collingwood cafe can be wildly different from one bought in Rome, which is different again from Las Vagas.
 
+### succulent desk delivery
+- plants don't travel well in the mail. The only plant that might would be a succulent. 
+- sell tiny succulent plants online. Each plant is potted in a connectable pot. Buy many plants and snap them together to create a small garden.
+- target office workers, companies who employee office workers, students, artists.
