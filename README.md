@@ -15,4 +15,9 @@ An ongoing project to think creatively and produce business and artistic ideas.
 
 ### photo measuring
 - Take a digital photo of a ruler lying next to any object and the app can measure the object
-- The app will find the ruler in the picture, save the pixel distance of one centimetre, and then measure any points mapped out on the photo 
+- The app will find the ruler in the picture, save the pixel distance of one centimetre, and then measure any points mapped out on the photo
+
+### coffee compare
+- a site that allows people to upload photos of coffees along with the name, the place they bought it, and the price.
+- a latte ordered in a Collingwood cafe can be wildly different from one bought in Rome, which is different again from Las Vagas.
+
