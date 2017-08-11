@@ -27,7 +27,8 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - target office workers, companies who employee office workers, students, artists.
 
 ### 8bit Alphabet book
-
 - a childrens book with a 8bit pixel image for each letter. 'Barry the bird' - followed by an 8bit pixelart parrot
 
+### local chicken eggs
+- An online place to search for producers in your area. Swap vegetables, eggs, offer surplus food to your neighbours.
 
