@@ -25,3 +25,9 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - plants don't travel well in the mail. The only plant that might would be a succulent. 
 - sell tiny succulent plants online. Each plant is potted in a connectable pot. Buy many plants and snap them together to create a small garden.
 - target office workers, companies who employee office workers, students, artists.
+
+### 8bit Alphabet book
+
+- a childrens book with a 8bit pixel image for each letter. 'Barry the bird' - followed by an 8bit pixelart parrot
+
+
