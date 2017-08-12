@@ -9,3 +9,5 @@
 ![Fret board picture of Major arpeggio](pixel-images/major-arpeggio-e-string-root.png)
 ![Fret board picture of Major 7 arpeggio](pixel-images/major-7-arpeggio-e-string-root.png)
 
+- each level is a lesson with a new digital teacher. The fretboard images are both view of teachers fretboard, and view of your own
+- each lesson is presented in a pixelart space
