@@ -32,3 +32,6 @@ An ongoing project to think creatively and produce business and artistic ideas.
 ### local chicken eggs
 - An online place to search for producers in your area. Swap vegetables, eggs, offer surplus food to your neighbours.
 
+### coffee art shazam
+- Take a photo of your latte art and the app will return an image that best matches the contours of the art
+
