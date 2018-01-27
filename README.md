@@ -35,3 +35,12 @@ An ongoing project to think creatively and produce business and artistic ideas.
 ### coffee art shazam
 - Take a photo of your latte art and the app will return an image that best matches the contours of the art
 
+### html, command-line, css, javascript, web, computer classes
+- Create a curriculum that tackles each subject
+- Audience is absolute beginners, computer illiterate, anyone who feels more comfotabe learning in person
+- Demonstrate using only a whiteboard, and explain the lessons concepts
+- Pair students and get them to tackle the problems
+- wander the classroom helping others
+- needs a community space
+- hire teachers to run the classes (only works when the curriculum is well definied)
+
