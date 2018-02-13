@@ -57,3 +57,4 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - Most ideas posted this month
 - Encourage posting small and often
 - Home page has a top ideas like Hacker news
+- Seedbed, idea planting, stay innovative, utilise an organisation's best asset - their teams imagination.
