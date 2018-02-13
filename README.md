@@ -44,3 +44,16 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - needs a community space
 - hire teachers to run the classes (only works when the curriculum is well definied)
 
+### seedbed seedbox idea planting
+
+- An ideas board for an organisation
+- Post an idea, a problem, an improvement
+- Give the seed(idea) some love with one or many clicks (like claps on medium)
+- Each idea can be tagged so searching is easy
+- The site has users, posts, comments, love(clicks), tags
+- Top ideas this week
+- Top ideas of all time
+- Most innovative user this month
+- Most ideas posted this month
+- Encourage posting small and often
+- Home page has a top ideas like Hacker news
