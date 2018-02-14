@@ -58,3 +58,39 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - Encourage posting small and often
 - Home page has a top ideas like Hacker news
 - Seedbed, idea planting, stay innovative, utilise an organisation's best asset - their teams imagination.
+
+### Hash value visualiser
+
+- SHA hashing algorithms produce long random strings. These strings could be used to generate icon tiles that conform to colour and layout rules
+- The icon tiles could be used as profile picture substitutes like in Slack
+- The strings could generate a colour palette of RGB values, (x,y) pairs for drawing lines, or svg values.
+
+### Reverse order dictionary
+
+- Find which words end with '...eed' or '...oger' or '...athe'
+- A reverse dictionary could be created from a normal dictionary and sorted by an algorithm
+
+### STABL
+
+- Stuff Todo A Bit Later
+- Keep a list of interesting things, articles to read, topics to explore.
+
+### Training partner
+
+- Shared workouts
+- fitness with friends
+- create a workout plan and check off your workout by starting the timer for your exercise
+- compete with friends who can be first/do the most/most consistent exercise
+
+### Chip packet picks
+
+- guitar picks made from shrunken chip packets
+- Foil-llined chip packets will shrink when placed in a hot oven
+- When shrunken, the packets are hard and brittle and only 1/10th of the size
+- Keep them flat when shrinking and then cut them to the shape of guitar picks
+
+### Cleaner jobs board
+
+- jobs app that matches cleaners with customers
+- become a cleaner and schedule regular jobs every week
+- use a timetable view to book a cleaner in your area
