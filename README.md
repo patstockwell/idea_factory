@@ -104,4 +104,8 @@ An ongoing project to think creatively and produce business and artistic ideas.
 ### Bookbook
 - A book to write notes about the books you have read
 
+### Clothes by measure
 
+- A website of second hand clothing where you search not by style but by specific fit
+- Each item on the site is specifically measured and categorised
+- When a user arrives, they are asked to enter their preferred measurements (take a favourite piece of clothing a measure it)
