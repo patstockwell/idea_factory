@@ -100,3 +100,8 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - A place to commit to ideas/goals and see you plan
 - Some parts might be immutable?
 - Each account has a public facing page (Make it your homepage to see your commitments regularly)
+
+### Bookbook
+- A book to write notes about the books you have read
+
+
