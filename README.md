@@ -109,3 +109,10 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - A website of second hand clothing where you search not by style but by specific fit
 - Each item on the site is specifically measured and categorised
 - When a user arrives, they are asked to enter their preferred measurements (take a favourite piece of clothing a measure it)
+
+### PostOff
+
+- a distributed postal service (ala Deliveroo, Uber, AirBnb)
+- Parties include a Sender, Receiver, and Courier
+- Track your parcel delivery
+- Payment when Reciever agknowledges the delivery with a given delivery id
