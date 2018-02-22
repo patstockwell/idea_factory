@@ -45,7 +45,6 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - hire teachers to run the classes (only works when the curriculum is well definied)
 
 ### seedbed seedbox idea planting
-
 - An ideas board for an organisation
 - Post an idea, a problem, an improvement
 - Give the seed(idea) some love with one or many clicks (like claps on medium)
@@ -60,43 +59,36 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - Seedbed, idea planting, stay innovative, utilise an organisation's best asset - their teams imagination.
 
 ### Hash value visualiser
-
 - SHA hashing algorithms produce long random strings. These strings could be used to generate icon tiles that conform to colour and layout rules
 - The icon tiles could be used as profile picture substitutes like in Slack
 - The strings could generate a colour palette of RGB values, (x,y) pairs for drawing lines, or svg values.
 
 ### Reverse order dictionary
-
 - Find which words end with '...eed' or '...oger' or '...athe'
 - A reverse dictionary could be created from a normal dictionary and sorted by an algorithm
 
 ### STABL
-
 - Stuff Todo A Bit Later
 - Keep a list of interesting things, articles to read, topics to explore.
 
 ### Training partner
-
 - Shared workouts
 - fitness with friends
 - create a workout plan and check off your workout by starting the timer for your exercise
 - compete with friends who can be first/do the most/most consistent exercise
 
 ### Chip packet picks
-
 - guitar picks made from shrunken chip packets
 - Foil-llined chip packets will shrink when placed in a hot oven
 - When shrunken, the packets are hard and brittle and only 1/10th of the size
 - Keep them flat when shrinking and then cut them to the shape of guitar picks
 
 ### Cleaner jobs board
-
 - jobs app that matches cleaners with customers
 - become a cleaner and schedule regular jobs every week
 - use a timetable view to book a cleaner in your area
 
 ### Long Now Pages
-
 - A place to commit to ideas/goals and see you plan
 - Some parts might be immutable?
 - Each account has a public facing page (Make it your homepage to see your commitments regularly)
@@ -105,19 +97,17 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - A book to write notes about the books you have read
 
 ### Clothes by measure
-
 - A website of second hand clothing where you search not by style but by specific fit
 - Each item on the site is specifically measured and categorised
 - When a user arrives, they are asked to enter their preferred measurements (take a favourite piece of clothing a measure it)
 
 ### PostOff
-
 - a distributed postal service (ala Deliveroo, Uber, AirBnb)
 - Parties include a Sender, Receiver, and Courier
 - Track your parcel delivery
 - Payment when Reciever agknowledges the delivery with a given delivery id
 
 ### Farmers Market Check in
-
 - Local market check in app so communities can see which stalls will be available
 - Sellers can claim a spot and there can be a waiting list when the spots are full
+
