@@ -116,3 +116,8 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - Parties include a Sender, Receiver, and Courier
 - Track your parcel delivery
 - Payment when Reciever agknowledges the delivery with a given delivery id
+
+### Farmers Market Check in
+
+- Local market check in app so communities can see which stalls will be available
+- Sellers can claim a spot and there can be a waiting list when the spots are full
