@@ -3,8 +3,18 @@ An ongoing project to think creatively and produce business and artistic ideas.
 
 ## The List
 
-### [Chipset music lessons](./chipset_music_lessons.md)
+### chipset music lessons
 - Learn music improvisation through short lessons delivered in a style reminiscent of 8 bit computer games.
+- Backing tracks are 8 bit chiptune loops
+- instrument and fingering diagrams are pixel art
+- As an app, a user can score points, level up, create a character/avatar in 8 bit pixel format.
+
+![Fret board picture of Major scale](pixel-images/major-scale-e-string-root.png)
+![Fret board picture of Major arpeggio](pixel-images/major-arpeggio-e-string-root.png)
+![Fret board picture of Major 7 arpeggio](pixel-images/major-7-arpeggio-e-string-root.png)
+
+- each level is a lesson with a new digital teacher. The fretboard images are both view of teachers fretboard, and view of your own
+- each lesson is presented in a pixelart space
 
 ### block soap
 - The last part of the soap bar, the small thin portion left after many lathers, is often thrown out or left to fall apart and clog the drain.
