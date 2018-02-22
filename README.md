@@ -94,3 +94,9 @@ An ongoing project to think creatively and produce business and artistic ideas.
 - jobs app that matches cleaners with customers
 - become a cleaner and schedule regular jobs every week
 - use a timetable view to book a cleaner in your area
+
+### Long Now Pages
+
+- A place to commit to ideas/goals and see you plan
+- Some parts might be immutable?
+- Each account has a public facing page (Make it your homepage to see your commitments regularly)
